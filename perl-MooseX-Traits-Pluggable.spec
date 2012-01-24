@@ -8,13 +8,13 @@
 Summary:	MooseX::Traits::Pluggable - an extension to MooseX::Traits
 Summary(pl.UTF-8):	MooseX::Traits::Pluggable - rozszerzenie dla MooseX::Traits
 Name:		perl-MooseX-Traits-Pluggable
-Version:	0.08
+Version:	0.10
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://search.cpan.org/CPAN/authors/id/B/BO/BOBTFISH/MooseX-Traits-Pluggable-%{version}.tar.gz
-# Source0-md5:	a74230bcf3e624344d012cb50e057c0f
+Source0:	http://www.cpan.org/modules/by-module/MooseX/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	7d7af140b575c7b1e32044e2876f6401
 URL:		http://search.cpan.org/dist/MooseX-Traits-Pluggable/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
