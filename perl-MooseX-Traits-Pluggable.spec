@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	MooseX
 %define	pnam	Traits-Pluggable
 Summary:	MooseX::Traits::Pluggable - an extension to MooseX::Traits
